@@ -13,6 +13,6 @@ class Handler
      */
     public function handle(): ?string
     {
-        return;
+        return null;
     }
 }
