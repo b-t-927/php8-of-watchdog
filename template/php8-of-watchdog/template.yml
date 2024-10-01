@@ -1,4 +1,4 @@
-language: php8
+language: php8-of-watchdog
 fprocess: php -S 127.0.0.1:8000 index.php
 welcome_message: |
   You have created a new function which uses PHP 8.3.
