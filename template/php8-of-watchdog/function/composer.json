@@ -1,0 +1,21 @@
+{
+    "name": "b-t-927/php8-of-watchdog",
+    "description": "Template for function in PHP 8.3 using of-watchdog",
+    "type": "project",
+    "license": "MIT",
+    "config":
+    {
+        "classmap-authoritative": true
+    },
+    "autoload":
+    {
+        "psr-4":
+        {
+            "App\\": "src/"
+        }
+    },
+    "require":
+    {
+        "php": "^8.3"
+    }
+}
