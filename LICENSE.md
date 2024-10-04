@@ -3,6 +3,7 @@ MIT License
 Copyright (c) 2024 Bruce Taylor
 
 Copyright (c) 2017 Alex Ellis
+
 Copyright (c) 2018 OpenFaaS Author(s)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
